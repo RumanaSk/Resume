@@ -4,8 +4,6 @@ Includes Cover Letter and Resume
 
 Hello,
 
-I am writing you to express my interest in interviewing for the position of Data Scientist in your Prestigious Company.
-
 My professional experience includes crafting algorithms and making use of machine learning, natural language processing to mine and make sense of data, and then using data visualization to present said data to decision makers.
 
 The following are my most relevant qualifications and accomplishments. 
