@@ -4,33 +4,54 @@ Includes Cover Letter and Resume
 
 Hello,
 
-My professional experience includes crafting algorithms and making use of machine learning, natural language processing to mine and make sense of data, and then using data visualization to present said data to decision makers.
+My professional experience includes crafting algorithms and making use of machine learning, natural language processing to mine and make sense of data, and then using data visualization to present said data to decision-makers. 
+
+
+
+Currently, I am working in my company’s(Quantiphi, Athenas Owl-AI for Media) product team to build AI workspace as a platform where we can build, run and solve ml and AI problems automatically.
+
+
+
+
+
 
 The following are my most relevant qualifications and accomplishments. 
 
-•	Completed Master’s Program in Data Science and Machine Learning Using Python from Grey Atom School of Data Science.
+Ø  Completed Master’s Program in Data Science and Machine Learning Using Python from Grey Atom School of Data Science.
 
-•	Bachelors of Computer Engineering 2014-2018(CGPA-8.3) from M H Saboo Siddik College of Engineering.
+Ø  Bachelors of Computer Engineering 2014-2018(CGPA-8.3) from M H Saboo Siddik College of Engineering.
 
-•	HSC Board  66.80 & SSC Board: 84.73
+Ø  HSC Board  66.80 & SSC Board: 84.73
 
-Projects
+  
 
-•	Predicted if the client will subscribe to direct marketing campaign for a banking institution. To improvise the marketing campaign of bank by analysing the past sampling data and recommending right target customer. Implemented Logistic Regression, Random Forest, Hyper Parameter tuning using grid search Algorithms to achieve a higher accuracy on data set.
-
-•	Predict the Sentiment of Twitter tweets using NLP-an accurate NLP based text classification system to analyse sentiments.
-
-•	Implementation of Logistic Regression, Decision Tree and Random Forests on Titanic Data Set. Created data visualization graphs and charts to make meaning of data for Survival Prediction.
-
-•	SPY Game
-
-•	Student Management Portal
-
-•	Predict the Probability of Loan defaulters
+Some of the Projects that I have worked on are as follows
 
 
+ 
 
-Blogs on Meduim
+1.      Bank Marketing Campaign Analysis & Prediction-https://github.com/RumanaSk/Bank-Marketting-Campaign-Analysis
+
+ 
+
+2.      Insurance Fraud Detection -https://github.com/RumanaSk/Fraud-Detection-in-Insurance  
+
+ 
+
+3.  Loan Defaulter Prediction-https://github.com/RumanaSk/lending-club-defaulter-prediction
+
+ 
+
+4.      NLP Twitter Sentiment Analysis-https://github.com/RumanaSk/NLP-Twitter-Sentiment-Analysis
+
+ 
+
+5.       Movie Recommendation System-https://github.com/RumanaSk/MOVIE-RECOMMENDATION-SYSTEM
+
+ 
+
+Blogs on Meduim-https://medium.com/@shaikhrumana0786
+
 
 •	NLP in Layman's Terms!
       Natural Language Processing or NLP is defined as the application of computational techniques for the analysis and the synthesis of  text. The aim of NLP is to give computers the ability to do tasks involving human language. Synonymy, Ambiguity, Anaphora       Resolution, Anaphora Resolution,Language related issues, Out of Vocabulary problem, Language generation , UseCases of NLP- Text   Classification, Document Summarization, Parts of Speech Tagging, Machine translation, Named Entity, Recognition,  Conversational AI.
@@ -43,7 +64,8 @@ Blogs on Meduim
     Understanding the Data Set, Discovering Patterns Between Categorical and Numerical Columns, Discovering & handling the Missing Values, Discovering the trends between the Features w.r.t Target Variable &Getting Insights and Conclusions
 
 
-I've also attached my resume for your perusal and hope to hear back soon.
+•  Learn Docker in just 5 minutes
+
 
 
 
